@@ -3,7 +3,7 @@
 # Blog Web app
 
 
-A simple webapp prototype  .It also contains a custom Admin panel where the administrator can create, delete, login, and log out too
+A simple webapp prototype  .It also contains a custom Admin panel where the administrator can create, delete, login, and log out too.- you can create your own user id and password and can login, you can add post create post edit post , there can be a multiple users connecting in a same platform, you can reset your password through email
 
 It has a simple design.Many more to edit in frontend.(learning)
 
@@ -16,6 +16,9 @@ It has a simple design.Many more to edit in frontend.(learning)
 - it was a 13 days learning process
 - it is friendly for begginers
 - learnt this all from mine only teacher corey schafer
+
+
+
 
 
 
