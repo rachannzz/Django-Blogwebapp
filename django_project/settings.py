@@ -81,11 +81,21 @@ WSGI_APPLICATION = 'django_project.wsgi.application'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
+   'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+       'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+#DATABASES = {
+#       'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#        'NAME':'blog-web',
+ #       'USER':'postgres',
+ #       'PASSWORD':'rachan009',
+  #      'PORT':'5432',
+  #      'HOST':'localhost'
+  #  }
+#}
 
 
 # Password validation
