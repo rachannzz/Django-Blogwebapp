@@ -31,6 +31,7 @@
                     <div class="navbar-nav mr-auto">
                         <a class="nav-item nav-link" href="{% url 'blog-home' %}">Home</a>
                         <a class="nav-item nav-link" href="{% url 'blog-about' %}">Write Us</a>
+                        
                     </div>
                     <!-- Navbar Right Side -->
                     <div class="navbar-nav">
@@ -40,6 +41,7 @@
                         <a class="nav-item nav-link" href="{% url 'post-create' %}">New Post</a>
                         {% else %}
                         <a class="nav-item nav-link" href="{% url 'login' %}">Login</a>
+                        <a class="nav-item nav-link" href="{% url 'password_reset' %}">PasswordReset</a>
                         <a class="nav-item nav-link" href="{% url 'blog-register' %}">Register</a>
                         {% endif %}
                     </div>
