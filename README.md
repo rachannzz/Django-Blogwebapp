@@ -13,7 +13,7 @@ It has a simple design.Many more to edit in frontend.(learning)
 - how we can request password reset through emails
 - how authentication works, user login, logout etc
 - many more like pillow,creation of forms ,requesting methods and many many more
-- it was a 13 days learning process
+- it was a 10 to 13 days learning process
 - it is friendly for begginers
 - learnt this all from mine only teacher corey schafer
 
